@@ -7,3 +7,8 @@
 #Query 3: For this query, I showed various campaign names for Feb 2025, I showed the spend and revenue, I then calculated roas, and then filtered them based on performance such as ‘High’, ‘Good’, and ‘Low’. And then I also ordered them descending to show the best campaigns on top and then used limit 5 to only show the top 5 best campaigns. 
 
 #Query 4: 
+
+
+
+
+
