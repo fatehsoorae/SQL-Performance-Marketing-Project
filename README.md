@@ -6,7 +6,8 @@
 
 #Query 3: For this query, I showed various campaign names for Feb 2025, I showed the spend and revenue, I then calculated roas, and then filtered them based on performance such as ‘High’, ‘Good’, and ‘Low’. And then I also ordered them descending to show the best campaigns on top and then used limit 5 to only show the top 5 best campaigns. 
 
-#Query 4: 
+#Query 4: For this query, I showed the campaign name, channel, spend, clicks, and conversions for campaigns for Feb 2025. I then calculated the cpa (cost per acquisition) by dividing spend by conversions. I then used a case statement to categorize campaign performance as “Great”, “Okay”, or “Poor” based on the cpa value. Finally, I ordered the results in ascending order of cpa so the best campaigns appeared first and used limit 3 to show only the top 3 best campaigns.
+
 
 
 
