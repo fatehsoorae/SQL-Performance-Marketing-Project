@@ -8,8 +8,5 @@
 
 #Query 4: For this query, I showed the campaign name, channel, spend, clicks, and conversions for campaigns for Feb 2025. I then calculated the cpa (cost per acquisition) by dividing spend by conversions. I then used a case statement to categorize campaign performance as “Great”, “Okay”, or “Poor” based on the cpa value. Finally, I ordered the results in ascending order of cpa so the best campaigns appeared first and used limit 3 to show only the top 3 best campaigns.
 
-
-
-
-
+Please find attached the Google doc link that showcases the results of the queries: https://docs.google.com/document/d/1kKezFcmA9xJ96sVJ0PPCBNTK-uz2foCxSNEo928_WO8/edit?tab=t.0
 
